@@ -1,0 +1,351 @@
+Translator’s Introduction
+
+Few figures in the transmission of the Dharma from India to Tibet hold as central of a role
+as the great master Atiśa Dīpaṃkara Śrījñāna (982–1055?). Often referred to in Tibetan simply
+by the epithet of “Lord” (Tib. jo bo rje), Atiśa is the individual most associated with
+the eleventh-century revival of Buddhism in Tibet, which followed the tumultuous era of
+fragmentation (sil bu’i dus) that began with the 842 collapse of the Tibetan Empire. His impact
+on the Tibetan Buddhist Dharma continues to reverberate to this day, nearly a full millennium
+after he first arrived in the Land of Snows, and his teachings have inspired millions
+of Buddhists in Central Asia and now the world over. A brief introduction to his life
+and activities may shed light on this foundational text.
+
+Read more
+
+function show_intro() {	document.getElementById('intro-readmore').style.display='none';	var
+e = document.getElementById('intro-hidden');	e.style.height = e.scrollHeight + "px";	return
+false;}		
+
+Atiśa was born in 982 as the second son of a royal house in Bengal, eastern India. On the eve
+of an adolescent marriage, he experienced a powerful vision of Tārā that motivated him to
+renounce the worldly life, even at this young age, and embark on the Buddhist path. He wandered
+through the jungles and mountains of India seeking the instruction of Buddhist masters,
+and he is said to have studied under a great number of mahāsiddhas. There are also accounts
+that he may have practiced the tantric sexual yogas at this time.[1] He received the
+bodhisattva vows from the master Bodhibhadra at the great Indian monastic university of
+Nālandā. At twenty-nine, the same age that Siddhartha left the palace, Atiśa had a dream
+in which he was urged by the Buddha himself to ordain, prompting him to take full monastic
+vows at a monastery in Bodh Gaya. Upon ordination, he was given the name Dīpaṃkara Śrījñāna,
+“He Whose Deep Awareness Acts as a Lamp.” With his relatively late ordination and scholarly
+pursuits, Atiśa’s biography is an inverse of Indian mahāsiddhas such as Nāropa, who
+only disrobed to practice tantra after many years living as a pure monk and scholar. Atiśa’s
+full monastic ordination after nearly two decades spent as a wandering yogi demonstrates
+the tremendous esteem with which he held the Vinaya and monastic discipline, values reflected
+in the Lamp for the Path and his broader missionary activities in Tibet. Atiśa’s most
+important teacher is referred to in Tibetan texts as Serlingpa (“The One from the Golden
+Island, Suvarṇadvīpa”), the Indonesian teacher also known as Suvarṇadvīpa Dharmakīrti. Atiśa
+heard tell of this great master of bodhicitta and resolved to undertake the perilous ocean
+journey to meet him and receive his teachings. He spent many tumultuous months at sea,
+rife with danger and obstacles, before he finally crossed the Strait of Malacca and arrived
+at the island of Sumatra where he met the sublime master. Atiśa remained on the island
+for twelve years, training intensively in bodhicitta and mind training (blo sbyong). He then
+returned to India as a lineage holder of Serlingpa’s precious teachings and later served
+as the abbot the great monastic university Vikramaśīla. In Tibet, he declared that of his
+forty-five teachers, Serlingpa was the most important; his numerous biographies report
+that the mere mention of Serlingpa’s name caused Atiśa’s eyes to brim with tears. The story
+of Atiśa’s invitation to Tibet is one of the most legendary in the Buddhist history of the
+country. Toward the end of the tenth century, the king of the Western Tibetan kingdom of
+Purang-Guge (pu hrangs gu ge), Lha Lama Yeshe Ö, sent twenty-one young Tibetans to Kashmir
+with the aim of reviving uncorrupted Buddhist teachings in his kingdom. This was prompted
+by the belief that Buddhism had fallen into a state of intense moral decay with the collapse
+of the Tibetan empire. Nineteen of the youths perished on the journey, marking the first
+of many supreme sacrifices required to bring Atiśa’s pure Dharma to Tibet. One of the
+two young men who survived was the great translator Rinchen Zangpo (958–1055), who informed
+the king of master Atiśa, whose fame had spread from eastern India all the way to the western
+mountains of Kashmir. The king sent a mission of nine men with a sizable offering of
+gold to Vikramaśīla to implore Atiśa to come to Tibet and restore the Buddhadharma. Only
+one of the nine survived the treacherous journey across the Himalayas and into India, but
+Atiśa declined the invitation and gold, saying it was important he remain in India. While
+amassing even more gold with which to invite the master, King Yeshe Ö was captured by the
+ardently anti-Buddhist Karluk (Qarluq) people, who said that the king’s freedom could only
+be bought for his own weight in gold. His nephew Jangchub Ö raised the requisite fortune
+for the king’s release only to have Yeshe Ö tell him to use the gold to again invite Atiśa,
+now with the message that the king had sacrificed his very life to bring the master to
+Tibet.[2] When Atiśa heard the story of the king’s supreme sacrifice, and on being urged directly
+by the goddess Tārā herself, he accepted the invitation and departed for Tibet, where
+he would remain for the rest of his life. The present text, The Lamp for the Path to Enlightenment,
+is a masterpiece of Buddhist literature. As noted in the first and final verses,
+Atiśa composed the treatise at the urging of Jangchub Ö, who became king following his
+uncle’s death. The text fully integrates the three vehicles of the Buddha’s teachings and
+shows them to be entirely non-contradictory. Doboom Tulku and Glenn Mullin note that “it
+is largely due to [Atiśa] that today all Tibetan sects of Buddhism are a combination of Hinayana,
+general Mahayana and Vajrayana doctrines.”[3] The great nineteenth-century master
+Dza Patrul Rinpoche wrote that although Atiśa had full mastery over the entire range of Buddhist
+teachings, sūtra and tantra, the foundational practice of taking refuge was of such
+paramount importance to him that Tibetans nicknamed him the ‘Refuge Paṇḍita.’[4] Atiśa’s
+masterwork is the foundational text for the “stages of the path” (lam rim) genre so prominent
+in Tibetan Buddhist literature. Gampopa’s Jeweled Ornament of Liberation (dam chos yid
+bzhin nor bu thar pa rin po che’i rgyan), Tsongkhapa’s Great Treatise on the Stages of the
+Path (lam rim chen mo), and Longchenpa’s Finding Rest in the Nature of Mind (sems nyid
+ngal gso), seminal classics of the Kagyü, Gelug, and Nyingma schools respectively, all draw
+their basic framework from Atiśa's Lamp for the Path. Given that this is one of the most
+foundational texts in Tibetan Buddhism, one which shaped the tradition as we know it today,
+it is a great honour to present this English translation.[5] May it be of benefit!Further
+Reading (in English)Apple, James B. Atisa Dipamkara: Illuminator of the Awakened Mind.
+Boulder, CO: Shambhala Publications, 2019. Doboom Tulku and Glenn H. Mullin. Atisha and Buddhism
+in Tibet. New Delhi: Tibet House, 1983.Gardner, Alexander. "Atiśa Dīpaṃkara," Treasury
+of Lives, accessed March 26, 2021, http://treasuryoflives.org/biographies/view/Atisa-Dipamkara/5717.Laird,
+Thomas. The Story of Tibet: Conversations with the Dalai Lama. “Chapter
+5: The Dharma Returns, and Buddhist Orders Are Born, 978-1204.” New York: Grove Press,
+2007.The Dalai Lama. Illuminating the Path to Enlightenment. Trans. Geshe Thupten Jinpa. Eds.
+Rebecca McClen Novick, Thubten Jinpa and Nicolas Ribush. Long Beach, CA: Thubten Dhargye
+Ling, 2002. Mullin, Glenn H. The Fourteen Dalai Lamas: A Sacred Legacy of Reincarnation.
+Santa Fe, NM: Clear Light Publishers, 2001: 13.  ↩His Holiness the Dalai Lama recounts how,
+as a child, he saw the headless body of King Yeshe Ö preserved in salt in the Potala.
+See Laird: 2007: 71.  ↩Atisha and Buddhism in Tibet. New Delhi: Tibet House, 1983: 71.  ↩rdza
+dpal sprul rin po che. rdzogs pa chen po klong chen snying thig gi sngon ’gro’i khrid
+yig kun bzang bla ma’i zhal lung. New Delhi: chos spyod par skrun khang, 2013: 260.  ↩The
+translator was fortunate to receive the oral transmission and instructions on this text during
+a public teaching given by His Holiness the Dalai Lama in Choglamsar, Ladakh in the summer
+of 2016. I am grateful to Dr. Jules Levinson, who graciously allowed me to attend his
+course based largely on this text in winter 2020. While translating, I referred to previous
+translations by David Choephel, Richard Sherburne and Ruth Sonam. I am grateful for the
+careful edits and feedback on the translation provided by Lowell Cook and Adam Pearcey.
+↩
+
+The Lamp for the Path to Enlightenment
+
+by Atiśa Dīpaṃkara
+
+In the language of India: BodhipāthapradipaṃIn the language of Tibet: jangchup lam gyi drönma
+(byang chub lam gyi sgron ma)In the English language: The Lamp for the Path to Enlightenment
+
+
+Homage to the youthful bodhisattva Mañjuśrī!
+
+With great reverence, I prostrate to all the Victorious Ones of the three times,to their Dharma,
+and to the members of the Saṅgha.Urged by my good student Jangchup Ö,I shall elucidate
+the Lamp for the Path to Enlightenment.
+
+Understand there are three types of individuals—lesser, middling, and superior.I shall set out
+a system of classification in whichtheir respective characteristics are made completely
+clear.
+
+Know that those who, by whatever means,exclusively seek mere mundane pleasuresof saṃsāra for
+their own benefitare inferior individuals.
+
+Those who have turned their backs on saṃsāra’s pleasuresand refrain from sinful karma,striving
+merely for pacification for themselves alone—such individuals are said to be middling.
+
+
+Those who truly desire to completely eradicateall the suffering of othersthrough their own personal
+suffering—such individuals are supreme.
+
+For these noble beingswho desire supreme enlightenment,I shall explain the perfect methodstaught
+by spiritual teachers.
+
+In the presence of paintings, statues,stūpas, and other representations of the perfect Buddha,offer
+flowers, fragrant incense,and whatever else you can afford.
+
+With the seven-fold offering alsotaught in Samantabhadra’s Aspiration to Good Deeds,and with
+the thought never to turn backuntil attaining the essence of complete enlightenment,
+
+With fervent faith in the Three Jewels,place one knee on the ground,join the palms together,and
+first take refuge three times.
+
+Then, beginning with a mind of lovefor all sentient beings,consider all those, without exception,who
+suffer in the three lower realmsfrom birth, death, and so forth.
+
+With the wish to liberate all beingsfrom the suffering of suffering,from suffering and its causes,generate
+bodhicitta with irreversible resolve.
+
+Maitreya has thoroughly explainedthe qualities of generatingsuch aspirational bodhicittain the
+Sūtra of the Arrayed Tree.[1]
+
+Having understood the limitless qualitiesof the mind of complete enlightenmentfrom reading this
+sūtra or listening to a spiritual teacher,generate this very state of mind again and again.
+
+
+The Sūtra Requested by Vīradattathoroughly explains its merits.Here, I shall summarize themby
+citing only three verses:
+
+“If the merit of bodhicittawere to take physical form,even the whole of space itselfcould not
+contain its vastness.
+
+“If a person were to fill with jewelsas many buddhafields as there aregrains of sands in the
+Ganges Riverand offer them to the Protector of the World,
+
+“This would be far surpassed by the offeringof someone joining their hands togetherand bowing
+in their mind to enlightenment,for this is beyond any limit.”
+
+You should generate aspirational bodhicittaand constantly increase it through great exertion.You
+should fully uphold your precepts as instructedso that you may recollect this in other
+lifetimes as well.
+
+Without the actual vow of engaged bodhicitta,your perfect aspiration will not develop further.With
+the wish to develop perfect enlightenment,make effort to take the vow in full.
+
+Only those who continuously maintainone of the seven types of individual liberation vowsor other
+vows will have the fortune forthe bodhisattva vow, no one else.
+
+According to the Tathāgata’s explanation ofthe seven classes of vows of individual liberation,glorious
+pure conduct—celibacy—is said to be supreme.Take, therefore, the vows of full ordination.
+
+
+According to the ritual described in thediscipline chapter of The Bodhisattva Levels,you should
+take the vow from a good,authentically qualified spiritual teacher.
+
+Understand that a good spiritual teacheris one skilled in the vow ritual,who lives by the vow
+and possessesthe patience and compassion to bestow it.
+
+In case, after searching for someone like this,you are unable to find such a spiritual teacher,I
+shall explain another ritualwith which to properly take the vow.
+
+With utmost clarity, I shall write howlong ago, when he was Ambarāja,Mañjuśrī generated bodhicitta,as
+described in The Ornament of Mañjuśrī’sBuddhafield Sūtra.
+
+“In the presence of the Protectors,I generate the mind of perfect enlightenment,and I invite
+all beings as my guests—These I shall liberate from saṃsāra.
+
+“From this moment untilI achieve supreme enlightenment,I shall have no thoughts of harm,no anger,
+avarice, or jealousy.
+
+“I shall cultivate pure conduct,and abandon sin and craving.With joy for the vows of discipline,I
+shall train to emulate the Buddhas.
+
+“Taking no joy in swiftlyattaining enlightenment for myself,I will remain until the very endfor
+the sake of even a single being.
+
+“I shall prepare immeasurable,inconceivable realmsand will remain in the ten directionsfor any
+who call out my name.
+
+“Having purified allphysical and verbal actions,I shall also purify my mental activities,and
+will avoid all that is non-virtuous.”
+
+Completely pure body, speech, and mindcause you to maintain the actual vow of engaged bodhicitta.By
+properly practicing the discipline of the three trainings,your reverence for these
+trainings grows greater.
+
+Therefore, by exerting yourself in the bodhisattva vows,bent on pure and perfect enlightenment,the
+accumulations for complete enlightenmentwill be fully perfected.
+
+All Buddhas say that the causefor completing the accumulations,whose natures are merit and wisdom,is
+the development of the higher knowledges.
+
+Just as a bird with unfledged wingscannot fly through the sky,one who lacks the power of the
+higher knowledgeswill be unable to work for beings’ benefit.
+
+The merit of a single day and nightgained by one with the higher knowledgesis not attained within
+a hundred lifetimesby one who is without them.
+
+Those who desire to swiftly completethe accumulations for perfect enlightenmentwill accomplish
+the higher knowledgesthrough effort, not through laziness.
+
+The higher knowledges will not arisewithout the accomplishment of śamatha;therefore, strive
+again and againto accomplish calm abiding.
+
+As long as the requisites for śamathaare weak, even if you were to meditatewith great effort
+for thousands of years,still you would not accomplish samādhi.
+
+Therefore, maintaining the requisitestaught in the Collection of Samādhi Chapter,place your
+mind on any suitablevirtuous object of focus.
+
+When the practitioner achieves śamatha,higher knowledges are also attained.But without the practice
+of the perfection of wisdom,the obscurations will not be eliminated.
+
+Therefore, in order to abandon, without exception,all emotional and cognitive obscurations,constantly
+meditate on the practiceof the perfection of wisdom with skillful means.
+
+Wisdom without skillful meansand skillful means without wisdomare said to be a form of bondage.Therefore,
+do not relinquish either one.
+
+To eliminate doubts concerningwhat is wisdom and what are skillful means,I shall clarify the
+correct distinctionbetween skillful means and wisdom.
+
+With the exception of the perfection of wisdom,the accumulations of all virtuous actions,such
+as the perfections of generosity and so forth,are described as skillful means by the Victorious
+Ones.
+
+Whosoever cultivates wisdomthrough the power of cultivating skillful meanswill swiftly attain
+enlightenment—but not through meditation on selflessness alone.
+
+What we call ‘wisdom’ is thoroughly explainedas an understanding of the emptiness of inherent
+existence—the realization that the aggregates, elements,and sense sources are unproduced.
+
+
+Logically, something existent cannot be produced,nor can something nonexistent, like a sky-flower.Consequently,
+as both faults would apply,something which is both could likewise not
+come into being.
+
+An entity is not produced from itself,nor from something else, nor from both,nor without causes.
+Therefore,it has no inherent nature.
+
+Alternatively, when you analyze any phenomenonas to whether it is singular or multiple,no inherent
+nature is observed.Phenomena are thus determined to have no nature.
+
+The reasoning in The Seventy Verses on Emptiness,[2]The Root Verses on the Middle Way,[3] and
+so forth,explains how it is proven thatthe nature of all things is emptiness.
+
+As this text would become too long,I have not elaborated further here.In order to facilitate
+your meditation,I will fully explain only the established conclusions.
+
+Thus, any meditation on selflessnessin which you do not observe the inherent natureof any phenomena,
+without exception,is, in and of itself, the cultivation of wisdom.
+
+Just as wisdom sees no inherent naturein any phenomena whatsoever,let wisdom itself be subject
+to analysis,and meditate free from conceptuality.
+
+The nature of this existence,which arises from conceptuality, is conceptuality.Therefore, to
+abandon conceptualityin its entirety is supreme nirvāṇa.
+
+Accordingly, the Blessed One said,“The great ignorance of conceptualityplunges us into the ocean
+of saṃsāra.Resting in non-conceptual samādhi,non-conceptuality is as clear as the sky.”
+
+
+Similarly, in The Dhāraṇī of Entering Non-Conceptuality:[4]“If the heirs of the Victorious Onescontemplate,
+without concepts, this noble Dharma,they will transcend conceptuality, so
+hard to overcome,and eventually attain the state of non-conceptuality.”
+
+After gaining certainty from scripturesand reasoning that all phenomenaare unproduced and without
+inherent nature,meditate without conceptuality.
+
+Accordingly, from meditating on suchness,eventually, you will attain heat and other signs;“Supreme
+Joy” and the other bhūmis will be attained;And Buddhahood, the enlightened state, will
+not be far away.
+
+If you wish to fully perfect the accumulationsfor enlightenment with ease,through pacifying,
+enriching, and the other activitiesaccomplished by the mantric powers;
+
+through the power of eight great accomplishments;through accomplishing the “fine vase” and others—If
+you wish to take up the practice of Secret Mantraas taught in the action, conduct,
+and other tantras,
+
+then, in order to receive empowermentfrom a vajra master, you must please thenoble spiritual
+teacher through veneration,offerings of wealth and the like,and endeavouring to carry out
+all commands.
+
+Through the complete bestowal of the vajra master empowermentby a spiritual master whom you
+have delighted,you will be completely purified of all sinsand gain the fortune of accomplishing
+the siddhis.
+
+As The Great Tantra of the Primordial Buddhaemphatically forbids it,those observing celibacy
+should neverreceive the secret and wisdom empowerments.
+
+If those practicing celibacy and asceticismwere to receive those empowerments,they would be
+obliged to practice what is forbidden,and their vows of austerity would thus deteriorate.
+
+
+This creates a downfall which woulddefeat those practicing yogic discipline.As they would be
+certain to fall into the lower realms,they would never gain accomplishment.
+
+For those who have received the vajra master empowermentand have knowledge of suchness, there
+is no faultin receiving or teaching any tantra,performing fire pūjās, offerings, and so
+forth.
+
+At the urging of Jangchub Ö,I, the Elder Dīpaṃkara Śrī, have conciselyexplained the Path of
+Enlightenment,as I’ve seen it taught in the sūtras and other Dharma teachings.
+
+This concludes The Lamp for the Path to Enlightenment, composed by the great master Dīpaṃkara
+Śrījñāna. It was translated and finalized by the great Indian abbot himself and the great
+translator and editor Gewé Lodrö. This teaching was composed in the Toling Temple in Zhang
+Zhung.
+
+| Translated by Patrick Dowd, 2021.
+
+Source: a ti sha , a ti sha , dge ba'i blo gros . "byang chub lam gyi sgron ma/." In bstan 'gyur/
+(dpe bsdur ma). TBRC W1PD95844. 64: 1678 - 1686. pe cin/: krung go'i bod rig pa'i dpe
+skrun khang /, 1994-2008. http://tbrc.org/link?RID=O2MS16391|O2MS163914CZ190227$W1PD95844
+
+Skt. Gaṇḍavyūha Sūtra, Tib. sdong po bkod pa’i mdo.  ↩Skt. Śūnyatāsaptatikārikā, Tib. stong
+nyid bdun bcu pa.  ↩Skt. Prajñā-nāma-mūlamadhyamakakārikā, Tib. dbu ma rtsa ba shes rab. 
+↩Skt. Avikalpapraveśadhāraṇī, Tib. rnam par mi rtog par ‘jug pa’i gzungs.  ↩
